@@ -1,0 +1,189 @@
+{
+	"Note": "Please use lower case while adding keywords",
+
+	"conv_1": {
+
+		"conv_1_1": [
+
+			"Speaking", 
+			"go ahead", 
+			"yes", 
+			"yeah", 
+			"ok"
+		],				
+
+		"conv_1_2": [
+
+			"who are you", 
+			"what's your name", 
+			"name" 
+		],		
+		"conv_1_3": [
+
+			"how are you", 
+			"what about you", 
+			"you", 
+			"and you" 
+		],
+		"conv_1_4": [
+
+			"no",
+			"not",
+			"not in home",
+			"home",
+			"not available",
+			"out",
+			"out of",
+			"out of station",
+			"town",
+			"tour",
+			"travelling"
+		]
+	},
+	"conv_2": {
+
+		"conv_2_1": [
+
+			"yes", 
+			"ye", 
+			"missed", 
+			"did", 
+			"i'm"
+		],		
+		"conv_2_2": [
+			"no",
+			"paid", 
+			"done", 
+			"already"
+
+		],			
+		"conv_2_3": [
+			"issue",
+			"dispute", 
+			"problem"
+		]		
+
+	},
+	"conv_3": {
+
+		"conv_3_1": [
+
+			"tomorrow", 
+			"today" 
+		],		
+		"conv_3_2": [
+
+			"no", 
+			"not", 
+			"can't", 
+			"will try", 
+			"try to pay", 
+			"don't", 
+			"today" 
+		]	
+
+	},
+	"conv_4": {
+
+		"conv_4_1": [
+
+			"send", 
+			"someone", 
+			"executive" 
+		],			
+		"conv_4_2": [
+
+			"ok", 
+			"yes", 
+			"know", 
+			"got" 
+		]		
+
+	},
+	"conv_5": {
+
+		"conv_5_1": [
+
+			"send", 
+			"someone", 
+			"executive" 
+		],			
+		"conv_5_2": [
+
+			"ok", 
+			"yes", 
+			"know", 
+			"got" 
+		]		
+
+	},
+	"conv_6": {
+
+		"conv_6_1": [
+
+			"today" 
+		],			
+		"conv_6_2": [
+
+			"cash", 
+			"branch" 
+		]		
+
+	},
+	"conv_7": {
+
+		"conv_7_1": [
+
+			"already", 
+			"yes", 
+			"ye", 
+			"inform",
+			"bank",
+			"regarding" 
+		]
+	},	
+	"conv_8": {
+
+		"conv_8_1": [
+
+			"husband",
+			"son",
+			"father", 
+			"mother", 
+			"brother", 
+			"sister",
+			"relative",
+			"wife" 
+		],
+		"conv_8_2": [
+
+			"husband",
+			"son",
+			"father", 
+			"mother", 
+			"brother", 
+			"sister",
+			"relative",
+			"wife" 
+		],		
+		"conv_8_3": [
+
+			"tomorrow",
+			"today",
+			"evening",
+			"afternoon" 
+		],		
+		"conv_8_4": [
+
+			"why",
+			"what",
+			"issue",
+			"can", 
+			"tell", 
+			"me", 
+			"want", 
+			"talk" 
+		]
+	}
+}
+

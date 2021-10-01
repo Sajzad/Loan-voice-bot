@@ -1,0 +1,34 @@
+{
+	"Note": "Please use lower case while adding keywords",
+
+	"intro":[
+		"HI, I am Neha calling form Abc Bank. Can i talk to Mr Shahjad?",
+		"Well, I would like to inform you that you have missed out the emi payment of",
+		"Okay. May I know when you will be paying today / Tomorrow/ Day After Tomorrow?"
+
+	],
+	"use_case_1": [
+		"Okay . May I know, whether you want me to send an executive for payment assistance Or you will pay directly or self?"
+	],
+	"use_case_2": [
+		"Okay.May I know , whether you are facing Financial issue / Medical Problem / any other issue?"
+	],
+	"use_case_3": [
+		"Okay. May I know when did you pay, as my system is showing your payment. Today/Yesterday/Day before?",
+		"Okay.May I know,how did you pay? Cash/Cheque/Neft/RTGS/UPI to our agent O rat Bank Branch Or at Airtel Payment Bank?",
+		"Okay. I’m sending this for further scrutiny"
+	],
+	"use_case_4": [
+		"Okay. May I know the Issue in detail?",
+		"Okay.May I know,how did you pay? Cash/Cheque/Neft/RTGS/UPI to our agent O rat Bank Branch Or at Airtel Payment Bank?",
+		"Okay. I’m sending this for further scrutiny"
+	],	
+	"use_case_5": [
+		"May I know to whom I’m speaking with?",
+		"May I know, when can I give him a call back on this number today evening,Tomorrow Morning,tomorrow afternoon, tomorrow evening?",
+		"But:I’m sorry!, due to security reason I will not be in a position to tell you more. May I know, when can I give him a call back on this number today evening,Tomorrow Morning,tomorrow afternoon, tomorrow evening?"
+
+	]	
+
+}
+

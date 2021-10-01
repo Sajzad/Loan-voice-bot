@@ -1,0 +1,23 @@
+[
+	{
+		"From": "+14695138651",
+		"To": "+8801856309604",
+		"Account SID" : "AC43f55aadc0e7513cf7e00d9f3333d913",
+		"auth_token" : "5f65d0746df2212eac82576557c599a1",
+		"ngrok_url" : "https://9c227b66fb8d.ngrok.io"
+	},
+	{
+		"From": "postmasterleads@gmail.com",
+		"Password": "postmasterleads@2020",
+		"To": "prabhu.nadar1986@gmail.com"
+	},
+	{
+		"data":["HI, I am Neha calling form Abc Bank. Can i talk to Mr Shahjad?",
+			"Well, I would like to inform you that you have missed out the emi payment of",
+			"Okay.May I know when you will be paying today / Tomorrow/ Day After Tomorrow?"
+		]
+	}
+]
+
+
+
